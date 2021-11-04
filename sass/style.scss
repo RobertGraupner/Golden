@@ -9,3 +9,10 @@ $font-four: 'Lobster Two', cursive;
 *, *::before, *::after {
     box-sizing: border-box;
 }
+.container {
+    background: lightcoral;
+    max-width: 1140px;
+}
+li {
+    display: inline-block;
+}

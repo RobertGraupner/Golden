@@ -3,4 +3,13 @@
 *, *::before, *::after {
   box-sizing: border-box;
 }
-/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxZQUFBO0FBT0EsU0FBQTtBQUNBO0VBQ0ksc0JBQXNCO0FDTDFCIiwiZmlsZSI6InN0eWxlLmNzcyJ9 */
+
+.container {
+  background: lightcoral;
+  max-width: 1140px;
+}
+
+li {
+  display: inline-block;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3Mvc3R5bGUuc2NzcyIsInN0eWxlLmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxZQUFBO0FBT0EsU0FBQTtBQUNBO0VBQ0ksc0JBQXNCO0FDTDFCOztBRE9BO0VBQ0ksc0JBQXNCO0VBQ3RCLGlCQUFpQjtBQ0pyQjs7QURNQTtFQUNJLHFCQUFxQjtBQ0h6QiIsImZpbGUiOiJzdHlsZS5jc3MifQ== */
