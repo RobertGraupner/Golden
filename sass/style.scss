@@ -36,7 +36,7 @@ $transition: all 1s;
 }
 .navigation {
     margin: 0 auto;
-    text-align: center;
+    text-align: right;
 }
 
 .nav-link {
@@ -214,9 +214,13 @@ $transition: all 1s;
     .logo {
     text-align: center;
     padding-right: 0;
+    padding-bottom: 16px;
+    }
+    .nav-link {
+        margin: 0 14px;
     }
     .welcome {
-        font-size: 18px;
+       width: 100%;
     }
     .button {
         width: 180px;
