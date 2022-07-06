@@ -1,1 +1,3 @@
-Pierwszy szablon zakodowany z pliku PSD przy użyciu HTML i CSS, wersja demo do zobaczenia pod linkiem [Golden](https://robertgraupner.github.io/Golden/#)
+## Golden
+
+Pierwszy szablon przeniesiony z pliku PSD do HTML i CSS, wersja demo [Golden](https://robertgraupner.github.io/Golden/#)
